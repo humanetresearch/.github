@@ -1,4 +1,4 @@
-![Open Source at Humanet](https://github.com/humanethq/.github/blob/main/images/main.png) 
+![Open Source at Humanet](https://github.com/humanethq/.github/blob/main/main.png) 
 
 ---
 
