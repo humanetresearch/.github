@@ -1,4 +1,4 @@
-# HUMANET RESEARCH HUB
+# HUMANET RESEARCH
 ### "Theoretical Foundation of Vector Symbolic Architectures & Incremental Dataflow."
 
 ---
