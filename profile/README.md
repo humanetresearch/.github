@@ -34,5 +34,5 @@ Humanet Research is the specialized R&D division dedicated to pioneering advance
 
 ---
 <p align="center">
-  <b>Humanet Research Laboratory • Patent Pending IP • London, United Kingdom</b>
+  <b>© 2026 Humanet Research</b>
 </p>
