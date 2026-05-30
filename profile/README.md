@@ -9,6 +9,7 @@ Right now, we are deploying core experimental layers. If you are a low-level sys
 * **[Explore CHSE Core Engine](#)** — Deep dive into Vector Symbolic Architectures and lock-free memory mapping.
 * **[Sentinel AI Telemetry](#)** — Inspect autonomous digital reincarnation routines and automated eBPF packet filters.
 * **[Local-to-Cloud Bridge](#)** — Download the lightning-fast secure development tunnel proxy for your CLI.
+* **[Explore PIE Runtime](#)** — Master write-time state propagation and $O(1)$ read-path optimization graphs.
 
 ---
 
